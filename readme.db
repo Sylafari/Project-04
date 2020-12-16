@@ -1,0 +1,3 @@
+●	Stock Web Application using Django Web framework 
+Connection to a stock API to pull up real time stock prices and store them onto a list for future reference
+Using the IEX Cloud API to pull up current prices
